@@ -1,2 +1,6 @@
 # Portfolio-Project
-Sample portfolio page
+
+HTML<br>
+CSS<br>
+JS(+jQuery)<br>
+Bootstrap<br>
